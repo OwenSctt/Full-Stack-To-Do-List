@@ -1,0 +1,28 @@
+body{
+  background: rgb(255, 255, 255);
+}
+h3{
+  margin-top: 40px;
+}
+.fa-thumbs{
+  font-weight: bold;
+}
+.fa-thumbs:hover,.fa-check:hover,.fa-trash:hover{
+  color: rgb(255, 0, 0);
+}
+.message{
+  display: flex;
+  justify-content: center;
+}
+*{
+  text-align: center;
+  font-family:cursive;
+}
+.task{
+  font-weight: bold;
+  margin-right: 1%;
+}
+.status{
+  font-weight:bold ;
+  margin-right: .5%;
+}
