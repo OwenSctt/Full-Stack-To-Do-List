@@ -30,5 +30,5 @@ npm install
   ```bash
   npm start
   ```
-  ## Future Updates
-  - No updates planned for now. Check again soon!
+## Future Updates
+- No updates planned for now. Check again soon!
